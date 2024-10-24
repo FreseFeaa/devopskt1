@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "commitizen": "^4.3.1",
+    "commitlint": "^19.5.0",
+    "pnpm": "^9.12.2"
+  }
+}
